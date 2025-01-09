@@ -1,0 +1,10 @@
+car=10.6
+phone=10.7
+computer=10.8
+tv=10.9
+tablet=10.10
+print(car)
+print(phone)
+print(computer)
+print(tv)
+print(tablet)

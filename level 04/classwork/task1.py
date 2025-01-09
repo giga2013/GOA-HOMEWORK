@@ -1,0 +1,2 @@
+name="giga"
+print(name)

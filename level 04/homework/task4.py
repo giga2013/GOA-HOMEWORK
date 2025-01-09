@@ -1,0 +1,13 @@
+grandpa=(64)
+dad=(42)
+mom=(36)
+me=(11)
+sister1=(9)
+sister2=(3)
+
+print( grandpa + 20 )
+print( dad +20 )
+print( mom + 20 )
+print( me + 20 )
+print( sister1 + 20 )
+print( sister2 + 20)

@@ -1,0 +1,10 @@
+car=1
+book=2
+computer=3
+phone=4
+tv=5
+print(car)
+print(book)
+print(computer)
+print(phone)
+print(tv)
