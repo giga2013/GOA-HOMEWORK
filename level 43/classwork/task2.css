@@ -1,0 +1,14 @@
+#table1, #table1 th, #table1 td{
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#table1 tr:nth-child(1){
+    background-color: green;
+    color: white;
+}
+
+#table1 tr:nth-child(2){
+    background-color: gray;
+    color: green;
+}

@@ -1,0 +1,17 @@
+link{
+    color: blue;
+    text-decoration: line-through;
+}
+
+link:hover{
+    color: black;
+    text-decoration: overline;
+}
+
+link:visited{
+    color: red;
+    background-color: green;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
