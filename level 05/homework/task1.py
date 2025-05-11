@@ -4,8 +4,8 @@ if num > 10:
     print("You are right!") 
 
 # 2
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))  
+num1 = (input("Enter first number: "))
+num2 = (input("Enter second number: "))  
 
 # მათემატიკური ოპერაციები
 print(f"Addition: {num1 + num2}")  # მიმატება

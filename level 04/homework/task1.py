@@ -15,7 +15,7 @@ print(f"Area: {S}, Perimeter: {P}")
 # output არის მონაცემების გამოტანა ეკრანზე, ანუ ტერმინალში
 
 # 4
-age = int(input("Enter your age: "))
+age = (input("Enter your age: "))
 
 if age >= 18:
     print("You are an adult.")
